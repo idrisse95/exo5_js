@@ -16,3 +16,11 @@ console.log(tab3);
 console.log(tab3.unshift('idriss'));
 console.log(tab3.splice(3,1,'iss'));
 console.log(tab3);
+
+let tab4 = ["coding 20","coding 21","coding 22"]
+console.log(tab4);
+console.log(tab4.push("idriss"));
+console.log(tab4.splice(2,1,"moi"));
+console.log(tab4);
+console.log(tab4.shift());
+console.log(tab4);
