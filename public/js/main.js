@@ -24,3 +24,10 @@ console.log(tab4.splice(2,1,"moi"));
 console.log(tab4);
 console.log(tab4.shift());
 console.log(tab4);
+
+
+
+
+let bonusT =["deud","dele","ddd"]
+let bonusT2 = ["teoi", "odod"]
+console.log(bonusT.concat(bonusT2));
